@@ -1,0 +1,13 @@
+5258|Java Programming|Herbert Schildt|Programming|4
+5291|C Programming|Dennis Ritchie|Programming|2
+5310|Python Basics|Guido van Rossum|Programming|8
+5402|Data Structures|Mark Allen Weiss|Computer Science|5
+5487|Operating Systems|Abraham Silberschatz|Computer Science|3
+5521|Database Management|Raghu Ramakrishnan|Computer Science|7
+5609|Machine Learning|Tom M. Mitchell|Artificial Intelligence|2
+5724|Web Development|Jon Duckett|Technology|6
+5850|Clean Code|Robert C. Martin|Software Engineering|4
+5903|Harry Potter|J. K. Rowling|Fiction|10
+9776|Java Programming|Kathy Sierra|Programming|6
+4689|Java |James Gosling|Programming|8
+3371|Atomic Habits|James Clear|Pesonal development book|12
